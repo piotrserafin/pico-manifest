@@ -6,4 +6,12 @@
 
     <!-- Projects -->
     <project name="pico-sdk" revision="develop" remote="rpi" path="pico/pico-sdk" />
+    <project name="pico-extras" revision="master" remote="rpi" path="pico/pico-extras" />
+    <project name="pico-playground" revision="master" remote="rpi" path="pico/pico-playground" />
+    <project name="pico-examples" revision="develop" remote="rpi" path="pico/pico-examples" />
+    <project name="picoprobe" revision="master" remote="rpi" path="pico/picoprobe" />
+    <project name="picotool" revision="develop" remote="rpi" path="pico/picotool" />
+    <project name="pico-project-generator" revision="master" remote="rpi" path="pico/pico-project-generator" />
+    <project name="pico-micropython-examples" revision="master" remote="rpi" path="pico/pico-micropython-examples" />
+
 </manifest>
