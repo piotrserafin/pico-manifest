@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<manifest>
+    <!-- Remote repositories definition -->
+    <remote name="rpi" fetch="https://github.com/raspberrypi/" />
+
+    <!-- Projects -->
+    <project name="pico-sdk" revision="develop" remote="rpi" path="pico/pico-sdk" />
+</manifest>
